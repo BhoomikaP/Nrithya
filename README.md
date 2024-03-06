@@ -2,7 +2,7 @@
 
 ![Project Logo](./360_F_217534184_ZFxSGmJupvRvBHC4DMyQUNnylDvX7OvX.jpg)
 
-Nirthya is not just a dance academy; it's a vibrant community where passion meets creativity and rhythm intertwines with grace. Our website is designed to provide you with all the information you need to embark on your dance journey with us, whether you're a beginner or an experienced dancer.
+Nirthya is not just a dance academy; it's a vibrant community where passion meets creativity and rhythm intertwines with grace. The website is designed to provide users with all the information needed to embark on  a dance journey.
 
 ## Features
 
@@ -11,7 +11,7 @@ Nirthya is not just a dance academy; it's a vibrant community where passion meet
 - **Interactive Gallery**: Immerse yourself in the world of dance with our captivating photo and video gallery showcasing performances, workshops, and student achievements.
 - **Easy Enrollment**: Sign up for classes directly through the website with our user-friendly enrollment system.
 - **Latest News and Events**: Stay updated on upcoming events, workshops, and special performances through our news section.
-- **Responsive Design**: Enjoy seamless browsing experience across devices, thanks to our website's responsive design built with Angular and Django frameworks.
+- **Responsive Design**: Enjoy a seamless browsing experience across devices, thanks to our website's responsive design built with Angular and Django frameworks.
 
 ## Technologies Used
 
