@@ -1,3 +1,7 @@
+
+![Project Logo](./360_F_217534184_ZFxSGmJupvRvBHC4DMyQUNnylDvX7OvX.jpg)
+
+
 # Nirthya Dance Academy Website
 
 Nirthya is not just a dance academy; it's a vibrant community where passion meets creativity and rhythm intertwines with grace. Our website is designed to provide you with all the information you need to embark on your dance journey with us, whether you're a beginner or an experienced dancer.
